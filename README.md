@@ -13,4 +13,7 @@ The algorithm will then input that info into the sign-in page, and the product i
 * Ver.1 only interacts with Amazon.com
 * Ver.1 does not specify more specific details like quantity of product, particular cost of product, the purchasing of multiple products in one session, etc.
 
+## Future Add-ons
+* Ver.2 will allow more specific details to be made, such as quantity of product, particular cost, adding to shopping cart, purchasing of multiple products in one session, etc.
+
 ![clipart292004](https://user-images.githubusercontent.com/71467135/170716895-5cae314d-0929-44c6-88e0-5beb1e986c5e.png)
